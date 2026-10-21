@@ -154,6 +154,11 @@ textarea {
   color: inherit;
   padding: 8px;
   line-height: 0;
+  width: 44px;
+  height: 44px;
+  align-items: center;
+  justify-content: center;
+  flex: none;
 }
 .vistal-clean-navbar .vistal-close-icon {
   display: none;
@@ -209,13 +214,78 @@ textarea {
     top: 100%;
     left: 0;
     right: 0;
-    background: #000;
-    max-height: calc(100dvh - 80px);
+    background: var(--base--black);
+    max-height: calc(100dvh - 76px);
     overflow: auto;
-    padding: 2rem 3.75rem;
+    overscroll-behavior: contain;
+    padding: 12px 24px 24px;
   }
   .vistal-reference .navbar_list {
     align-items: stretch;
+  }
+  .vistal-clean-navbar .padding-global.is-navbar {
+    padding: 16px 24px;
+  }
+  .vistal-clean-navbar .navbar_content {
+    min-height: 44px;
+    gap: 16px;
+  }
+  .vistal-clean-navbar .nav_wrap {
+    min-width: 0;
+    gap: 16px;
+  }
+  .vistal-clean-navbar .menu-button {
+    display: inline-flex;
+  }
+  .vistal-clean-navbar .nav_mobile {
+    display: none;
+    float: none;
+    width: 100%;
+  }
+  .vistal-clean-navbar .nav_mobile.w--open {
+    display: block;
+    border-top: 1px solid #ffffff26;
+  }
+  .vistal-clean-navbar .navbar_list {
+    width: 100%;
+    height: auto;
+    padding: 0;
+    gap: 0;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    color: inherit;
+  }
+  .vistal-clean-navbar .nav_links {
+    width: 100%;
+    min-height: 48px;
+    padding: 12px 0;
+    justify-content: flex-start;
+    color: inherit;
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .vistal-clean-navbar .nav_links:hover,
+  .vistal-clean-navbar .nav_links[aria-current="page"] {
+    padding-left: 0;
+  }
+  .vistal-clean-navbar .vistal-mobile-contact {
+    display: flex;
+  }
+  .vistal-clean-navbar .hide-mobile-landscape {
+    display: none;
+  }
+  .vistal-reference .vistal-clean-navbar.vistal-menu-open,
+  .vistal-reference .vistal-clean-navbar.vistal-nav-solid {
+    background: var(--base--black);
+  }
+  .vistal-reference .vistal-clean-navbar.vistal-navbar-light,
+  .vistal-clean-navbar.vistal-navbar-light .nav_mobile.w--open {
+    background: var(--base--white);
+    color: var(--base--black);
+  }
+  .vistal-clean-navbar.vistal-navbar-light .nav_mobile.w--open {
+    border-top-color: #0000001a;
   }
   .vistal-reference .vistal-navbar-light .nav_mobile.w--open {
     background: #fff;
@@ -228,13 +298,14 @@ textarea {
   .hide-mobile-landscape {
     display: none !important;
   }
-  .vistal-clean-navbar .vistal-mobile-contact {
-    display: block;
-  }
 }
 @media (max-width: 479px) {
+  .vistal-clean-navbar .padding-global.is-navbar {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
   .vistal-reference .nav_mobile.w--open {
-    padding: 1.5rem;
+    padding: 12px 20px 20px;
   }
   .vistal-clean-footer .footer_top {
     grid-template-columns: 1fr 1fr;
