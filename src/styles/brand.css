@@ -1,0 +1,92 @@
+/* Avenor identity; existing motion wrappers and their dimensions stay intact. */
+.avenor-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  color: var(--base--black);
+  white-space: nowrap;
+}
+.avenor-brand__mark {
+  width: 40px;
+  height: 40px;
+  display: block;
+  object-fit: contain;
+}
+.avenor-brand__name {
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 1;
+}
+.avenor-brand--light { color: var(--base--white); }
+.avenor-brand--light .avenor-brand__mark {
+  background-color: var(--base--yellow);
+  border-radius: 4px;
+}
+.vistal-clean-footer .footer_logo {
+  width: auto;
+  height: auto;
+}
+.avenor-display-wordmark {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--base--white);
+  font-size: 200px;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: 0;
+}
+.avenor-display-wordmark > span { display: block; }
+.avenor-display-wordmark sup {
+  align-self: flex-start;
+  margin-top: 8%;
+  font-size: 24px;
+  line-height: 1;
+}
+.footer_bottom .avenor-display-wordmark { color: var(--base--yellow); }
+.avenor-contact-email {
+  color: var(--text-color--text-tertiary);
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+@media (min-width: 1600px) {
+  .avenor-display-wordmark { font-size: 300px; }
+}
+@media (max-width: 991px) {
+  .avenor-display-wordmark { font-size: 150px; }
+}
+@media (max-width: 767px) {
+  .avenor-display-wordmark { font-size: 100px; }
+  .avenor-display-wordmark sup { font-size: 16px; }
+  .avenor-brand__name { font-size: 23px; }
+  .avenor-brand__mark { width: 34px; height: 34px; }
+}
+@media (max-width: 479px) {
+  .avenor-display-wordmark { font-size: 76px; }
+  .avenor-display-wordmark sup { font-size: 12px; }
+}
+
+/* Clean footer links layout and spacing */
+.vistal-clean-footer .footer_top {
+  grid-column-gap: 2.75rem;
+  grid-row-gap: 2rem;
+}
+
+.vistal-clean-footer .footer_column {
+  gap: 0.35rem;
+}
+
+.vistal-clean-footer .footer_link,
+.vistal-clean-footer .footer_link.is-footer {
+  padding: 0.35rem 0 !important;
+  display: block;
+  opacity: 0.75;
+  transition: opacity 0.2s ease;
+}
+
+.vistal-clean-footer .footer_link:hover,
+.vistal-clean-footer .footer_link.is-footer:hover {
+  opacity: 1;
+}
