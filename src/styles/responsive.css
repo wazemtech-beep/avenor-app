@@ -207,7 +207,7 @@
   .hero_bg {
     background-image:
       radial-gradient(circle, #0000, #000c),
-      url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ed4dca2f918d4d9bec4e05_cca08177ff658763a1e71f0d6107f6cb_Hero.webp);
+      url(https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581845/wazemtech/avenor/68ed4dca2f918d4d9bec4e05_cca08177ff658763a1e71f0d6107f6cb_Hero-f452957f42b4.webp);
     background-position:
       0 0,
       50%;
@@ -603,7 +603,7 @@
   .hero_bg {
     background-image:
       linear-gradient(#0000 34%, #000c),
-      url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f6a1771a5223428f0fd2d7_iPhone%2016%20Plus%20-%201%20\(1\).avif);
+      url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581848/wazemtech/avenor/68f6a1771a5223428f0fd2d7_iPhone-16-Plus---1-1--5055ac49f13c.avif);
     background-position:
       0 0,
       50%;
@@ -753,7 +753,7 @@
   .section_full {
     background-image:
       repeating-linear-gradient(#0006, #f2f2f200),
-      url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f2bb9f84919ef83a1aebcb_778cfa94f3e0b124893d951969e12f4e_Hero%20\(28\).avif);
+      url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581848/wazemtech/avenor/8f2bb9f84919ef83a1aebcb_778cfa94f3e0b124893d951969e12f4e_Hero-28--03f4f53b7002.avif);
     padding-bottom: 7rem;
   }
   .service_grid {
@@ -785,7 +785,7 @@
   .blog_img-container {
     background-image:
       linear-gradient(#0000 34%, #000c),
-      url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f6a1771a5223428f0fd2d7_iPhone%2016%20Plus%20-%201%20\(1\).avif);
+      url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581848/wazemtech/avenor/68f6a1771a5223428f0fd2d7_iPhone-16-Plus---1-1--5055ac49f13c.avif);
     height: 100%;
   }
   .form {
@@ -798,7 +798,7 @@
   .hero_image-full {
     background-image:
       repeating-linear-gradient(#0006, #f2f2f200),
-      url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f2bb9f84919ef83a1aebcb_778cfa94f3e0b124893d951969e12f4e_Hero%20\(28\).avif);
+      url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581848/wazemtech/avenor/8f2bb9f84919ef83a1aebcb_778cfa94f3e0b124893d951969e12f4e_Hero-28--03f4f53b7002.avif);
   }
   .expertise_visual-img.is-second {
     border-bottom-right-radius: 0;

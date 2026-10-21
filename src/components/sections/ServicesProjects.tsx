@@ -109,7 +109,6 @@ export default function ServicesProjects() {
                     width={100}
                     height={100}
                     sizes="100px"
-                    unoptimized
                   />
                 </div>
               </div>
@@ -138,7 +137,6 @@ export default function ServicesProjects() {
                     width={100}
                     height={100}
                     sizes="100px"
-                    unoptimized
                   />
                 </div>
               </div>
@@ -167,7 +165,6 @@ export default function ServicesProjects() {
                     width={100}
                     height={100}
                     sizes="100px"
-                    unoptimized
                   />
                 </div>
               </div>
@@ -196,7 +193,6 @@ export default function ServicesProjects() {
                     width={100}
                     height={100}
                     sizes="100px"
-                    unoptimized
                   />
                 </div>
               </div>

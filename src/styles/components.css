@@ -316,7 +316,7 @@
   grid-column-gap: 1rem;
   grid-row-gap: 1rem;
   text-align: center;
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ed0d0a63da252f1cf81eb9_404%20image.svg);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581843/wazemtech/avenor/68ed0d0a63da252f1cf81eb9_404-image-278a454fecb5.svg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -364,7 +364,7 @@
   grid-row-gap: var(--_sizes---fixed--xsmall);
   opacity: 1;
   color: var(--text-color--text-on-primary);
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/6900e13adca06313743b8f76_Rectangle%2070%20\(1\).svg);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581844/wazemtech/avenor/6900e13adca06313743b8f76_Rectangle-70-1--14153b95077a.svg);
   background-position: 0%;
   background-repeat: no-repeat;
   background-size: 5px 5px;
@@ -378,7 +378,7 @@
 }
 .nav_links:active {
   font-weight: var(--_typography---font-weight--medium);
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/6900e13adca06313743b8f76_Rectangle%2070%20\(1\).svg);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581844/wazemtech/avenor/6900e13adca06313743b8f76_Rectangle-70-1--14153b95077a.svg);
   background-position: 0%;
   background-repeat: no-repeat;
   background-size: 5px;
@@ -386,7 +386,7 @@
 .nav_links.w--current {
   opacity: 1;
   color: inherit;
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/6900e13adca06313743b8f76_Rectangle%2070%20\(1\).svg);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581844/wazemtech/avenor/6900e13adca06313743b8f76_Rectangle-70-1--14153b95077a.svg);
   background-position: 0%;
   background-repeat: no-repeat;
   background-size: 5px;
@@ -473,7 +473,7 @@
   z-index: 2;
   background-image:
     radial-gradient(circle, #0000, #000c),
-    url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ed4dca2f918d4d9bec4e05_cca08177ff658763a1e71f0d6107f6cb_Hero.webp);
+    url(https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581845/wazemtech/avenor/68ed4dca2f918d4d9bec4e05_cca08177ff658763a1e71f0d6107f6cb_Hero-f452957f42b4.webp);
   background-position:
     0 0,
     50%;
@@ -780,25 +780,25 @@
   overflow: clip;
 }
 .tabs_content.is-one.w--current {
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ee7e89fb32ffc9bedf5659_Frame%202147226808.avif);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581842/wazemtech/avenor/68ee7e89fb32ffc9bedf5659_Frame-2147226808-c424193684f4.avif);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .tabs_content.is-two.w--current {
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68eecff3070986c7416074bd_Frame%202147227048.avif);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581842/wazemtech/avenor/68eecff3070986c7416074bd_Frame-2147227048-ce211a33225d.avif);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .tabs_content.is-three.w--current {
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68eecff483ed63cfd5ceabf7_Frame%202147227049.avif);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581843/wazemtech/avenor/68eecff483ed63cfd5ceabf7_Frame-2147227049-8ccfbc54f5b3.avif);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .tabs_content.is-four.w--current {
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68eecff3fd6d67e2cb355296_Frame%202147227050.avif);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581845/wazemtech/avenor/68eecff3fd6d67e2cb355296_Frame-2147227050-1e50c52857c1.avif);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1033,7 +1033,7 @@
 .hero_img-overlay {
   z-index: 15;
   pointer-events: none;
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68eeb9324e9cf7b816a09623_house.avif);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581845/wazemtech/avenor/68eeb9324e9cf7b816a09623_house-1e1bd3ce3657.avif);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1206,13 +1206,13 @@
   overflow: clip;
 }
 .project_tab-card.is-one.w--current {
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ee7e89fb32ffc9bedf5659_Frame%202147226808.avif);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581842/wazemtech/avenor/68ee7e89fb32ffc9bedf5659_Frame-2147226808-c424193684f4.avif);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .project_tab-card.is-two.w--current {
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68eecff3070986c7416074bd_Frame%202147227048.avif);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581842/wazemtech/avenor/68eecff3070986c7416074bd_Frame-2147227048-ce211a33225d.avif);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1223,7 +1223,7 @@
     background-color 0.4s;
 }
 .project_tab-card.is-three.w--current {
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f16927fe450505cb811238_Hero%20\(21\).avif);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581846/wazemtech/avenor/68f16927fe450505cb811238_Hero-21--65022779abdf.avif);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1237,7 +1237,7 @@
     background-color 0.4s;
 }
 .project_tab-card.is-four.w--current {
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68eecff3fd6d67e2cb355296_Frame%202147227050.avif);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581845/wazemtech/avenor/68eecff3fd6d67e2cb355296_Frame-2147227050-1e50c52857c1.avif);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1255,7 +1255,7 @@
 .section_full.is-project {
   background-image:
     linear-gradient(#0009, #0000001c 31%, #0000 61%),
-    url("https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f7c0aed3559b4af74ddef6_Hero%20(40)%20(1).avif");
+    url("https://res.cloudinary.com/dj4rfocct/image/upload/v1792581847/wazemtech/avenor/68f7c0aed3559b4af74ddef6_Hero-40-1--c82ab2c08c6e.avif");
   background-position:
     0 0,
     50%;
@@ -1486,7 +1486,7 @@
   position: relative;
 }
 .blog_img-container {
-  background-image: url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f93b94d93e2c086c0a3c85_image.avif);
+  background-image: url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581847/wazemtech/avenor/68f93b94d93e2c086c0a3c85_image-bcb9ced65a20.avif);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1545,7 +1545,7 @@
   color: var(--text-color--text-on-primary);
   background-image:
     radial-gradient(circle, #f2f2f200, #0006 60%),
-    url(https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f2bb9f84919ef83a1aebcb_778cfa94f3e0b124893d951969e12f4e_Hero%20\(28\).avif);
+    url(https://res.cloudinary.com/dj4rfocct/image/upload/v1792581848/wazemtech/avenor/8f2bb9f84919ef83a1aebcb_778cfa94f3e0b124893d951969e12f4e_Hero-28--03f4f53b7002.avif);
   background-position:
     0 0,
     50%;

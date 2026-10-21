@@ -70,7 +70,6 @@ export default function HomeBlogs() {
                               width={100}
                               height={100}
                               sizes="100px"
-                              unoptimized
                             />
                           </div>
                           <div className="blog_description">

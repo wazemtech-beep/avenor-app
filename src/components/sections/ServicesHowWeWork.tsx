@@ -98,7 +98,6 @@ export default function ServicesHowWeWork() {
                                 width={100}
                                 height={100}
                                 sizes="100px"
-                                unoptimized
                               />
                             </div>
                             <div className="w-layout-vflex">
@@ -128,7 +127,6 @@ export default function ServicesHowWeWork() {
                               width={100}
                               height={100}
                               sizes="100px"
-                              unoptimized
                             />
                           </div>
                         </div>

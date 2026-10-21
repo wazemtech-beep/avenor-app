@@ -109,7 +109,6 @@ export default function HomeProjects() {
                         width={100}
                         height={100}
                         sizes="100px"
-                        unoptimized
                       />
                     </div>
                     <div className="project_description">
@@ -176,7 +175,6 @@ export default function HomeProjects() {
                         width={100}
                         height={100}
                         sizes="100px"
-                        unoptimized
                       />
                     </div>
                     <div className="project_description">
@@ -243,7 +241,6 @@ export default function HomeProjects() {
                         width={100}
                         height={100}
                         sizes="100px"
-                        unoptimized
                       />
                     </div>
                     <div className="project_description">
@@ -310,7 +307,6 @@ export default function HomeProjects() {
                         width={100}
                         height={100}
                         sizes="100px"
-                        unoptimized
                       />
                     </div>
                     <div className="project_description">

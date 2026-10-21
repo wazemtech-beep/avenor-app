@@ -113,7 +113,6 @@ export default function HomeAbout() {
                         width={100}
                         height={100}
                         sizes="100px"
-                        unoptimized
                       />
                     </div>
                     <div className="card_content">

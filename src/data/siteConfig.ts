@@ -44,7 +44,7 @@ export const siteConfig = {
   },
   "sections": {
     "homeHero": {
-      "vistalC2A9Image": "/brand/avenor-mark.png",
+      "vistalC2A9Image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581820/wazemtech/avenor/avenor-mark-075486b1116a.png",
       "Alt": "",
       "title": "Thoughtful spaces. Lasting impressions.",
       "bringYourArchitecturalProjectsToLifeWithATemplateThatPutsYourWork": "Avenor is an independent architecture and interiors studio, shaping considered places for the way we live, work and come together.",
@@ -61,19 +61,19 @@ export const siteConfig = {
       "items": [
         {
           "className": "card_left animation",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ee66a57e752aa1972ab4c7_Hero%20(1).avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581819/wazemtech/avenor/68ee66a57e752aa1972ab4c7_Hero-1--f48fcbd31ffe.avif",
           "label": "Northlight House",
           "label2": "A daylight-led workspace study with a calm material palette and a closer connection to its surroundings."
         },
         {
           "className": "card_center animation",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ed7938feef1d10be119442_adcae94b00f1f21773b68f2bcced06d2_Hero%20%281%29.avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581819/wazemtech/avenor/68ed7938feef1d10be119442_adcae94b00f1f21773b68f2bcced06d2_Hero-1--834ef19db933.avif",
           "label": "The Arcade",
           "label2": "An open retail courtyard concept where generous daylight makes space for everyday encounters."
         },
         {
           "className": "card_right animation",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ee66ec2a9f075d5018b0a2_Hero%20(3).avif",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581819/wazemtech/avenor/68ee66ec2a9f075d5018b0a2_Hero-3--6d7657075955.avif",
           "label": "Garden Pavilion",
           "label2": "A garden pavilion study that brings quiet interiors and the changing landscape into conversation."
         }
@@ -92,17 +92,17 @@ export const siteConfig = {
       "urbanReatreat": "Garden Pavilion",
       "phoenixUsa": "Melbourne, Australia",
       "grandConferenceHall": "Assembly Hall",
-      "frame202147227046Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ee830e4e9a012bfe788071_Frame%202147227046.avif",
+      "frame202147227046Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581819/wazemtech/avenor/68ee830e4e9a012bfe788071_Frame-2147227046-3b47cf413673.avif",
       "Alt": "",
       "designedWithExpansiveNaturalLightAndSleekModernArchitectureThisSh": "The Arcade explores how a generous central courtyard can turn a retail destination into a place to pause, meet and spend time. Light and circulation guide the plan.",
       "learnMoreHref": "/projects",
       "learnMore": "Learn more",
-      "hero204Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ee84eabbb787cca5c424f4_Hero%20(4).avif",
+      "hero204Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581821/wazemtech/avenor/68ee84eabbb787cca5c424f4_Hero-4--acb60cf4c0b4.avif",
       "thisProjectFeaturesBrightModernOfficeSpacesEnhancedByCuttingEdgeE": "Northlight House rethinks the everyday workplace around natural light, shared space and a restrained material palette. Adaptable layouts leave room for changing routines.",
       "learnMoreHref2": "/",
-      "hero205Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ee84eb3d514f93fa278a1b_Hero%20(5).avif",
+      "hero205Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581821/wazemtech/avenor/68ee84eb3d514f93fa278a1b_Hero-5--c0f58d651730.avif",
       "urbanRetreatInGoldenGateParkOffersAPeacefulEscapeWithinSanFrancis": "Garden Pavilion is an architectural study in slowing down. Sheltered edges and open views create a gentle transition between the landscape and the interior.",
-      "frame202147227047Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ee84eb9a75f01aca2ff954_Frame%202147227047.avif",
+      "frame202147227047Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581822/wazemtech/avenor/68ee84eb9a75f01aca2ff954_Frame-2147227047-0de961cad051.avif",
       "theGrandConferenceHallIsThoughtfullyDesignedToFosterCollaboration": "Assembly Hall explores a welcoming setting for people to come together. A clear structural rhythm and carefully framed light give the larger space a more human scale."
     },
     "homeServices": {
@@ -120,21 +120,21 @@ export const siteConfig = {
           "label": "1",
           "title": "Spatial planning",
           "label2": "A clear plan for movement, light and everyday use, shaped around the people who will spend time there.",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f25db37a7fff6a29b78ddd_Hero%20(25).webp"
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581823/wazemtech/avenor/68f25db37a7fff6a29b78ddd_Hero-25--a988bb8243a1.webp"
         },
         {
           "href": "/services",
           "label": "2",
           "title": "Adaptive reuse",
           "label2": "Finding new possibilities in existing buildings, preserving character while making room for a new chapter.",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68efc02f87f0a350e58f8c47_Hero-4.webp"
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581824/wazemtech/avenor/68efc02f87f0a350e58f8c47_Hero-4-0e5af5c50d0c.webp"
         },
         {
           "href": "/services",
           "label": "3",
           "title": "Interior architecture",
           "label2": "Material, texture and proportion brought together in interiors that are practical, calm and full of character.",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68efc043b54f8e04c34fb5be_Hero-3.webp"
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581824/wazemtech/avenor/68efc043b54f8e04c34fb5be_Hero-3-12465abb13f9.webp"
         }
       ]
     },
@@ -142,7 +142,7 @@ export const siteConfig = {
       "aboutVistal": "About Avenor",
       "heading": "A small practice. An open conversation. A lasting point of view.",
       "withACommitmentToInnovationSustainabilityAndPrecisionWeBringYourI": "Avenor brings architecture, interiors and spatial strategy into one conversation. We begin by listening: to your brief, to the site and to the way a space needs to feel. Then we test ideas, refine the details and make a clear plan for what comes next.",
-      "hero206Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ee9ecdeea397b2e54c9e6c_Hero%20(6).avif",
+      "hero206Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581825/wazemtech/avenor/68ee9ecdeea397b2e54c9e6c_Hero-6--93d46527117d.avif",
       "Alt": ""
     },
     "homeBlogs": {
@@ -156,32 +156,32 @@ export const siteConfig = {
       "slides": [
         {
           "href": "/projects",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68eea7d5ada19f71575c755e_Hero%20(7).webp",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581825/wazemtech/avenor/68eea7d5ada19f71575c755e_Hero-7--2562c583bb5b.webp",
           "label": "A little more green: bringing the landscape inside"
         },
         {
           "href": "/projects",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68eea814e4d0533af7bafed0_Hero%20(8).webp",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581825/wazemtech/avenor/68eea814e4d0533af7bafed0_Hero-8--75ee29e14d97.webp",
           "label": "The right starting point is a good question"
         },
         {
           "href": "/projects",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68eea827a6f37844249869cf_Hero%20(9).png",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581827/wazemtech/avenor/68eea827a6f37844249869cf_Hero-9--2d37508e6081.png",
           "label": "Five small decisions that change a room"
         },
         {
           "href": "/projects",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68eea84e2a5cfd2b4a36b8ee_Hero%20(10).webp",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581827/wazemtech/avenor/68eea84e2a5cfd2b4a36b8ee_Hero-10--41f37e8befef.webp",
           "label": "Designing for the way life actually happens"
         },
         {
           "href": "/projects",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68eea861b01bb101707d2adb_Hero%20(11).webp",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581827/wazemtech/avenor/68eea861b01bb101707d2adb_Hero-11--53bec855dee7.webp",
           "label": "Materials that feel better with time"
         },
         {
           "href": "/projects",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68eea87ec4fd1177964aab7a_Hero%20(12).webp",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581828/wazemtech/avenor/68eea87ec4fd1177964aab7a_Hero-12--4bfedc056cf2.webp",
           "label": "Leaving room for a different tomorrow"
         }
       ]
@@ -218,26 +218,26 @@ export const siteConfig = {
       "expertTeams": "Creative disciplines",
       "value35m": "12",
       "projectValue": "Material explorations",
-      "hero2039Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f7bd81ea4ea1dcca8f14df_Hero%20(39).avif",
+      "hero2039Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581828/wazemtech/avenor/68f7bd81ea4ea1dcca8f14df_Hero-39--0adef31d35c8.avif",
       "Alt": ""
     },
     "aboutPurpose": {
       "ourPurpose": "Our purpose",
       "weBelieveInClarityCareAndConnectionOurGoalIsSimpleToHelpYouMoveSm": "We believe good architecture begins with paying attention. To the character of a site, the light through a window and the routines that give a place meaning.",
-      "hero2032Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f7a29f924cdd877780f566_Hero%20(32).avif",
+      "hero2032Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581829/wazemtech/avenor/68f7a29f924cdd877780f566_Hero-32--5f9b7dbad7f8.avif",
       "Alt": "",
       "heading": "A clear purpose in every detail",
       "focusedOnCreativityAndPrecisionWeTurnIdeasIntoLastingDesigns": "We design places that feel considered, useful and connected to their surroundings.",
       "innovativePerspectivefunctionalDesiHref": "/services",
-      "roundStarImage": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f6e26d8e3ae8f81fa734bb_ic_round-star.svg",
+      "roundStarImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581829/wazemtech/avenor/68f6e26d8e3ae8f81fa734bb_ic_round-star-af6049dfb941.svg",
       "innovativePerspective": "A fresh perspective",
       "functionalDesignOrganizesTheProjectToMeetItsUseObjectives": "A clear plan for movement, light and everyday use, shaped around the people who will spend time there.",
       "learnMore": "Learn more",
-      "hero2019Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f025c86fd78bae918c3328_Hero%20(19).avif",
-      "settingFilledImage": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f6e26d1c9a5551452f38bd_ant-design_setting-filled.svg",
+      "hero2019Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581830/wazemtech/avenor/68f025c86fd78bae918c3328_Hero-19--5871cfb8fc71.avif",
+      "settingFilledImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581830/wazemtech/avenor/68f6e26d1c9a5551452f38bd_ant-design_setting-filled-8876834c4279.svg",
       "customizedSolutions": "A personal response",
       "tailoringDesignsToPerfectlyAlignWithTheClientSNeeds": "Tailoring designs to perfectly align with the client's needs.",
-      "hammerSolidImage": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f6e26d565120dcfb885f52_flowbite_hammer-solid.svg",
+      "hammerSolidImage": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581831/wazemtech/avenor/68f6e26d565120dcfb885f52_flowbite_hammer-solid-981fde48f66d.svg",
       "sustainablePractices": "Careful material choices",
       "implementingEnergyEfficientAndEnvironmentallyFriendlySolutions": "Implementing energy-efficient and environmentally friendly solutions."
     },
@@ -247,7 +247,7 @@ export const siteConfig = {
       "getStartedHref": "/contact",
       "getStarted": "Start a conversation",
       "Alt": "",
-      "hero2031Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f7a2933c45dcefb435f3ab_Hero%20(31).avif"
+      "hero2031Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581832/wazemtech/avenor/68f7a2933c45dcefb435f3ab_Hero-31--afdacb8465bb.avif"
     },
     "aboutTeam": {
       "teams": "Teams",
@@ -255,37 +255,37 @@ export const siteConfig = {
       "items": [
         {
           "href": "/about",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f7a7c8b73f2cee081a98a0_Hero%20(33).webp",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581832/wazemtech/avenor/68f7a7c8b73f2cee081a98a0_Hero-33--ffad99824e1c.webp",
           "label": "Clara Hayes",
           "label2": "Architect"
         },
         {
           "href": "/about",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f7a7f0c036c7110efaab5b_Hero%20(34).webp",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581832/wazemtech/avenor/68f7a7f0c036c7110efaab5b_Hero-34--44a3c58573e9.webp",
           "label": "Amelia Ward",
           "label2": "Interior Designer"
         },
         {
           "href": "/about",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f7a80bb73f2cee081aacb3_Hero%20(35).webp",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581833/wazemtech/avenor/68f7a80bb73f2cee081aacb3_Hero-35--858f67a20643.webp",
           "label": "Oliver Reed",
           "label2": "Project Lead"
         },
         {
           "href": "/about",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f7a8264861d0e8166b920d_Hero%20(37).webp",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581834/wazemtech/avenor/68f7a8264861d0e8166b920d_Hero-37--f3175bfea380.webp",
           "label": "Ethan Brooks",
           "label2": "Structural Designer"
         },
         {
           "href": "/about",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f7a84423c8f20d8c407353_Hero%20(36).webp",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581834/wazemtech/avenor/68f7a84423c8f20d8c407353_Hero-36--9c901dbfa648.webp",
           "label": "Julian Ellis",
           "label2": "Creative Director"
         },
         {
           "href": "/about",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f7a87604ee2e3b35827346_Hero%20(38).webp",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581834/wazemtech/avenor/68f7a87604ee2e3b35827346_Hero-38--4a28a825aa76.webp",
           "label": "Sophie Lane",
           "label2": "Visualization Specialist"
         }
@@ -326,7 +326,7 @@ export const siteConfig = {
       "expertTeams": "Creative disciplines",
       "value35m": "12",
       "projectValue": "Material explorations",
-      "hero2041Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f7c6c6506e0d2b5a0b289c_Hero%20(41).avif",
+      "hero2041Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581834/wazemtech/avenor/68f7c6c6506e0d2b5a0b289c_Hero-41--c59b099286c0.avif",
       "Alt": ""
     },
     "projectsProjects": {
@@ -338,19 +338,19 @@ export const siteConfig = {
       "shoppingCenterDeliversAVibrantRetailExperienceByBlendingContempor": "The Arcade is a conceptual retail courtyard, organised around light, movement and shared space. A simple spatial rhythm lets the everyday life of the place take centre stage.",
       "viewProjectHref": "/contact",
       "viewProject": "View project",
-      "frame202147227046Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ee830e4e9a012bfe788071_Frame%202147227046.avif",
+      "frame202147227046Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581819/wazemtech/avenor/68ee830e4e9a012bfe788071_Frame-2147227046-3b47cf413673.avif",
       "Alt": "",
       "sustainableOfficesRedefineModernWorkspacesWithAbundantNaturalLigh": "Northlight House is a workplace concept with daylight at its centre. Flexible rooms, considered thresholds and a quiet palette support different ways of working.",
       "viewProjectHref2": "/contact",
-      "hero2023Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f168e1bad289009d1541c3_Hero%20(23).avif",
+      "hero2023Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581835/wazemtech/avenor/68f168e1bad289009d1541c3_Hero-23--3bd2a7827cf5.avif",
       "heading": "Garden Pavilion / A quiet retreat",
       "urbanRetreatInGoldenGateParkOffersAPeacefulEscapeWithinSanFrancis": "Garden Pavilion is an architectural study in slowing down. Sheltered edges and open views create a gentle transition between the landscape and the interior.",
       "viewProjectHref3": "/contact",
-      "hero205Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ee84eb3d514f93fa278a1b_Hero%20(5).avif",
+      "hero205Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581821/wazemtech/avenor/68ee84eb3d514f93fa278a1b_Hero-5--c0f58d651730.avif",
       "heading2": "Assembly Hall / Room to gather",
       "grandConferenceHallOffersARefinedSpaciousSettingThatBlendsModernD": "Assembly Hall is a gathering-space concept balancing an open plan with a sense of intimacy. Light, proportion and material give the shared interior its character.",
       "viewProjectHref4": "/contact",
-      "frame202147227047Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ee84eb9a75f01aca2ff954_Frame%202147227047.avif",
+      "frame202147227047Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581822/wazemtech/avenor/68ee84eb9a75f01aca2ff954_Frame-2147227047-0de961cad051.avif",
       "items": [
         {
           "className": "project_tab-card is-one animation w-inline-block w-tab-link",
@@ -395,45 +395,45 @@ export const siteConfig = {
       "items": [
         {
           "href": "/services",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f126be2ce6e66f9d989876_material-symbols_home-rounded.svg",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581836/wazemtech/avenor/68f126be2ce6e66f9d989876_material-symbols_home-rounded-4bbfc4c12307.svg",
           "label": "Spatial planning",
           "label2": "A clear plan for movement, light and everyday use, shaped around the people who will spend time there.",
-          "image2": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f25db37a7fff6a29b78ddd_Hero%20(25).webp"
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581823/wazemtech/avenor/68f25db37a7fff6a29b78ddd_Hero-25--a988bb8243a1.webp"
         },
         {
           "href": "/services",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f126d2f9454e315f0a1d12_mingcute_layer-fill.svg",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581836/wazemtech/avenor/68f126d2f9454e315f0a1d12_mingcute_layer-fill-eafcdaad3de5.svg",
           "label": "Adaptive reuse",
           "label2": "Finding new possibilities in existing buildings, preserving character while making room for a new chapter.",
-          "image2": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68efc02f87f0a350e58f8c47_Hero-4.webp"
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581824/wazemtech/avenor/68efc02f87f0a350e58f8c47_Hero-4-0e5af5c50d0c.webp"
         },
         {
           "href": "/services",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f126d7fa4fe4d173cec916_solar_chair-bold.svg",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581836/wazemtech/avenor/68f126d7fa4fe4d173cec916_solar_chair-bold-af334d16d9cd.svg",
           "label": "Interior architecture",
           "label2": "Material, texture and proportion brought together in interiors that are practical, calm and full of character.",
-          "image2": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68efc043b54f8e04c34fb5be_Hero-3.webp"
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581824/wazemtech/avenor/68efc043b54f8e04c34fb5be_Hero-3-12465abb13f9.webp"
         },
         {
           "href": "/services",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f126ef1312b8b92af5e771_material-symbols-light_home-and-garden-rounded.svg",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581837/wazemtech/avenor/ef1312b8b92af5e771_material-symbols-light_home-and-garden-rounded-2626a61fe7be.svg",
           "label": "Environmental thinking",
           "label2": "Considering orientation, materials and the life of a building from the earliest design decisions.",
-          "image2": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68efc056576c7b92a71602f7_Hero-2.webp"
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581838/wazemtech/avenor/68efc056576c7b92a71602f7_Hero-2-ba60cde44f22.webp"
         },
         {
           "href": "/services",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f126fa38d3c2ff360e782c_fluent_home-more-48-filled.svg",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581838/wazemtech/avenor/68f126fa38d3c2ff360e782c_fluent_home-more-48-filled-9dc7e9ffb746.svg",
           "label": "Public spaces",
           "label2": "Places for connection, with a careful response to scale, access and the life of the neighbourhood.",
-          "image2": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68efc06d5118d824307c7d8d_Hero-1.webp"
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581839/wazemtech/avenor/68efc06d5118d824307c7d8d_Hero-1-0ed0ae66b49f.webp"
         },
         {
           "href": "/services",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68f1271810ca046cddfb9dd1_lsicon_list-filled.svg",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581839/wazemtech/avenor/68f1271810ca046cddfb9dd1_lsicon_list-filled-6397416f891a.svg",
           "label": "Design coordination",
           "label2": "A clear design intent, shared documentation and considered coordination through each agreed stage.",
-          "image2": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81eaa/68efc09fa9e0038f9e9960c5_Hero%20(14).webp"
+          "image2": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581839/wazemtech/avenor/68efc09fa9e0038f9e9960c5_Hero-14--90bd643bf670.webp"
         }
       ]
     },
@@ -447,23 +447,23 @@ export const siteConfig = {
       "preliminaryStudyanalysisPhaseWhereTHref": "/contact",
       "Alt": "",
       "learnMore": "Learn more",
-      "hero2019Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f025c86fd78bae918c3328_Hero%20(19).avif",
+      "hero2019Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581830/wazemtech/avenor/68f025c86fd78bae918c3328_Hero-19--5871cfb8fc71.avif",
       "items": [
         {
           "className": "card_one",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f6bc42dfbe3500978bb08a_tabler_clipboard-filled.svg",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581840/wazemtech/avenor/68f6bc42dfbe3500978bb08a_tabler_clipboard-filled-4395cfceb67c.svg",
           "label": "Listen and explore",
           "label2": "We get to know your brief, the site and the possibilities. A clear starting point makes space for better ideas."
         },
         {
           "className": "card_two",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f6bc42e9f76e4075f2479e_material-symbols_home-rounded%20(1).svg",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581840/wazemtech/avenor/68f6bc42e9f76e4075f2479e_material-symbols_home-rounded-1--f6d271ea9697.svg",
           "label": "Shape and refine",
           "label2": "We test layouts, explore materials and develop the concept together, refining the decisions that matter most."
         },
         {
           "className": "card_three",
-          "image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68f6bc43c576152375d3c290_mingcute_home-5-fill.svg",
+          "image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581842/wazemtech/avenor/68f6bc43c576152375d3c290_mingcute_home-5-fill-888a0ddd2a0d.svg",
           "label": "Detail and coordinate",
           "label2": "We bring the chosen direction into focus with a clear set of drawings and coordinated material decisions."
         }
@@ -478,14 +478,14 @@ export const siteConfig = {
       "shooppingCenter": "The Arcade",
       "residential": "Architecture",
       "ecoFriendly": "Material study",
-      "frame202147226808Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68ee7e89fb32ffc9bedf5659_Frame%202147226808.avif",
+      "frame202147226808Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581842/wazemtech/avenor/68ee7e89fb32ffc9bedf5659_Frame-2147226808-c424193684f4.avif",
       "Alt": "",
       "texasUsa": "Copenhagen, Denmark",
       "sustainableOffices": "Northlight House",
-      "frame202147227048Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68eecff3070986c7416074bd_Frame%202147227048.avif",
+      "frame202147227048Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581842/wazemtech/avenor/68eecff3070986c7416074bd_Frame-2147227048-ce211a33225d.avif",
       "washingtonDCUsa": "London, United Kingdom",
       "urbanReatreat": "Garden Pavilion",
-      "frame202147227049Image": "https://cdn.prod.website-files.com/68ed0d0a63da252f1cf81e7e/68eecff483ed63cfd5ceabf7_Frame%202147227049.avif"
+      "frame202147227049Image": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581843/wazemtech/avenor/68eecff483ed63cfd5ceabf7_Frame-2147227049-8ccfbc54f5b3.avif"
     },
     "servicesCta": {
       "getStarted": "Start a conversation",
@@ -516,7 +516,7 @@ export const siteConfig = {
   },
   "brand": {
     "fullName": "Avenor Studio",
-    "logo": "/brand/avenor-mark.png",
+    "logo": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581820/wazemtech/avenor/avenor-mark-075486b1116a.png",
     "tagline": "Architecture & Interiors",
     "homeLabel": "Avenor home",
     "footerDescription": "Avenor is an independent architecture and interiors studio, shaping considered places for the way we live, work and come together."

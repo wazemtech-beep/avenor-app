@@ -142,7 +142,6 @@ export default function ProjectsProjects() {
                         width={100}
                         height={100}
                         sizes="100px"
-                        unoptimized
                       />
                     </div>
                   </div>
@@ -254,7 +253,6 @@ export default function ProjectsProjects() {
                         width={100}
                         height={100}
                         sizes="100px"
-                        unoptimized
                       />
                     </div>
                   </div>
@@ -366,7 +364,6 @@ export default function ProjectsProjects() {
                         width={100}
                         height={100}
                         sizes="100px"
-                        unoptimized
                       />
                     </div>
                   </div>
@@ -478,7 +475,6 @@ export default function ProjectsProjects() {
                         width={100}
                         height={100}
                         sizes="100px"
-                        unoptimized
                       />
                     </div>
                   </div>

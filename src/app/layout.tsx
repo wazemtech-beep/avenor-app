@@ -26,8 +26,8 @@ export const metadata: Metadata = {
   description: siteConfig.description,
   robots: { index: false, follow: false },
   icons: {
-    icon: "/brand/avenor-mark.png",
-    apple: "/brand/avenor-mark.png",
+    icon: "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581820/wazemtech/avenor/avenor-mark-075486b1116a.png",
+    apple: "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581820/wazemtech/avenor/avenor-mark-075486b1116a.png",
   },
   openGraph: {
     title: siteConfig.metadata["/"].title,
@@ -43,6 +43,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={inter.variable} suppressHydrationWarning>
+      <head>
+        <link rel="preconnect" href="https://res.cloudinary.com" crossOrigin="anonymous" />
+      </head>
       <body suppressHydrationWarning>
         <SmoothScroll>{children}</SmoothScroll>
       </body>
